@@ -1,4 +1,9 @@
-<img src="HappyPlaceSticker.PNG" width="200" height="200">
+<img src="HappyPlaceSticker.PNG" width="200" height="200" alt="memoji" style="margin-right: 30px">
+<img alt="GIF" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" height="200" style="margin-right: 30px"/>
+<img alt="GIF" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" height="200" style="margin-right: 30px"/>
+<img alt="Spot, aka cat" src="SpotEcke.png" height="200"/>
+
+
 
 # Hi there, I'm Patti aka pingopengo
 ##
@@ -9,4 +14,3 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.reddit.com/user/pingopengo" target="_blank">
     <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=Reddit&logoColor=white" alt="Reddit"></a> 
-
