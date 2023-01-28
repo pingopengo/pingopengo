@@ -3,7 +3,10 @@
     <img src="HappyPlaceSticker.PNG" width="200" height="200" alt="memoji" style="float: left;">
     <img alt="GIF" height="200" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" style="float: left;">
     <img alt="GIF" height="200" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" style="margin-right: 20px">
-    <img alt="Spot, aka cat" height="200" src="SpotEcke.png" style="float: left;" />
+
+1214 × 1618
+
+    <img alt="Spot, aka cat" height="1779" width="2415" src="SpotEcke.png" style="float: left;" />
 </div>
 
 # Hi there, I'm Patti aka pingopengo
