@@ -1,9 +1,9 @@
 
 <div>
-    <img src="HappyPlaceSticker.PNG" width="200" height="200" alt="memoji" style="margin-right: 20px">
+    <img alt="Vigil, aka cat" height="531" width="367" src="Vigil.png" style="margin-right: 20px" />
     <img alt="GIF" height="200" width="200" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" style="margin-right: 20px">
     <img alt="GIF" height="200" width="150" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" style="margin-right: 20px">
-    <img alt="Spot, aka cat" height="200" width="300" src="SpotEcke.png" style="float: left;" />
+    <img alt="Spot, aka cat" height="200" width="300" src="SpotEcke.png" style="margin-right: 20px" />
 </div>
 
 # Hi there, I'm Patti aka pingopengo
