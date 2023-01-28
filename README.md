@@ -1,8 +1,8 @@
 
 <div>
-    <img alt="Yoshi" height="200" width="150" src="Yoshi.png" style="margin-right: 40px">
-    <img alt="Vigil, aka cat" height="200" width="150" src="Vigil.png" style="margin-right: 40px" />
-    <img alt="Spot, aka cat" height="150" width="200" src="SpotEcke.png" style="margin-right: 40px" />
+    <img alt="Yoshi" height="200" width="150" src="Yoshi.png" style="margin-right: 60px">
+    <img alt="Vigil, aka cat" height="200" width="150" src="Vigil.png" style="margin-right: 60px" />
+    <img alt="Spot, aka cat" height="150" width="200" src="SpotEcke.png" style="margin-right: 60px" />
     <img alt="Coffee GIF" height="200" width="200" src="https://media.giphy.com/media/Q5Qt0TOp7eippwBMIg/giphy.gif">
 </div>
 
