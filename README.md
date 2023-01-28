@@ -1,21 +1,14 @@
 
-<table>
-  <tr>
-    <td>
-      <img src="HappyPlaceSticker.PNG" alt="image1">
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" alt="yoshi">
-    </td>
-    <td>
-      <img src="SpotEcke.png" alt="yoshi">
-    </td>
-  </tr>
-</table>
-
+<div>
+    <img src="HappyPlaceSticker.PNG" width="200" height="200" alt="memoji" style="float: left;">
+    <img alt="GIF" height="200" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" style="float: left;">
+    <img alt="GIF" height="200" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" style="margin-right: 20px">
+    <img alt="Spot, aka cat" height="200" src="SpotEcke.png" style="float: left;" />
+</div>
 
 # Hi there, I'm Patti aka pingopengo
-##
+
+
 
 <a href="https://www.linkedin.com/in/patricia-vernau-a71b4b228/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
