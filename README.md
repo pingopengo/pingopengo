@@ -1,8 +1,10 @@
-<img src="HappyPlaceSticker.PNG" width="200" height="200" alt="memoji" style="margin-right: 30px">
-<img alt="GIF" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" height="200" style="margin-right: 30px"/>
-<img alt="GIF" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" height="200" style="margin-right: 30px"/>
-<img alt="Spot, aka cat" src="SpotEcke.png" height="200"/>
 
+<div>
+    <img src="HappyPlaceSticker.PNG" width="200" height="200" alt="memoji" style="float: left;">
+    <img alt="GIF" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" height="200" style="float: left;">
+    <img alt="GIF" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" height="200" style="float: left;">
+    <img alt="Spot, aka cat" src="SpotEcke.png" height="200" style="float: left;" />
+</div>
 
 
 # Hi there, I'm Patti aka pingopengo
