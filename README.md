@@ -1,13 +1,12 @@
 
 <div>
-    <img alt="GIF Dog" height="200" width="150" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" style="margin-right: 40px">
-    <img alt="Vigil, aka cat" height="200" width="150" src="Vigil.png" style="margin-right: 40px" />
-    <img alt="Spot, aka cat" height="150" width="200" src="SpotEcke.png" style="margin-right: 40px" />
-    <img alt="Coffee GIF" height="200" width="200" src="https://media.giphy.com/media/ND4ntvGe47jmpk86fS/giphy.gif">
+    <img alt="Yoshi" height="270" width="230" src="Yoshi.png" style="margin-right: 40px">
+    <img alt="Vigil, aka cat" height="300" width="230" src="Vigil.png" style="margin-right: 40px" />
+    <img alt="Spot, aka cat" height="250" width="240" src="SpotEcke.png" style="margin-right: 40px" />
+    <img alt="Coffee GIF" height="300" width="300" src="https://media.giphy.com/media/Q5Qt0TOp7eippwBMIg/giphy.gif">
 </div>
 
 # Hi there, I'm Patti aka pingopengo
-
 
 
 <a href="https://www.linkedin.com/in/patricia-vernau-a71b4b228/" target="_blank">
