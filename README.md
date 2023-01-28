@@ -1,10 +1,17 @@
 
-<div>
-    <img src="HappyPlaceSticker.PNG" width="200" height="200" alt="memoji" style="float: left;">
-    <img alt="GIF" src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" style="float: left;">
-    <img alt="GIF" src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" style="float: left;">
-    <img alt="Spot, aka cat" src="SpotEcke.png" style="float: left;" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="HappyPlaceSticker.PNG" alt="image1">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/QzmG5IUWtuZxQTeRfm/giphy.gif" alt="yoshi">
+    </td>
+    <td>
+      <img src="SpotEcke.png" alt="yoshi">
+    </td>
+  </tr>
+</table>
 
 
 # Hi there, I'm Patti aka pingopengo
