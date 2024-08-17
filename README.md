@@ -6,7 +6,7 @@
     <img alt="Coffee GIF" height="200" width="200" src="https://media.giphy.com/media/Q5Qt0TOp7eippwBMIg/giphy.gif">
 </div>
 
-# Hi there, I'm Patti aka pingopengo
+# Hi there, I'm misavoid!
 
 
 <a href="https://www.linkedin.com/in/patricia-vernau-a71b4b228/" target="_blank">
